@@ -1,6 +1,6 @@
 
 /* import {edad,nombre,estaActivo} from './ejercicios/ejercicio-01'; */
-import './ejercicios/practica-1/ejercicio-05';
+import './ejercicios/practica-2/ejercicio-03';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
