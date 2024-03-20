@@ -9,6 +9,8 @@ let nombre: string = 'Gregory Antonio Santos Martínez';
 let edad: number = 33;
 let estaActivo: boolean = true;
 
+export { nombre, edad, estaActivo };
+
 
 
 
