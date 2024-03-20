@@ -1,2 +1,2 @@
 # curso-angular
-repositorio para el cusro de angular 17
+repositorio para el curso de angular 17
